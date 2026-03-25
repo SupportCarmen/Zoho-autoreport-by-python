@@ -1,0 +1,8 @@
+playwright
+requests
+pandas
+openpyxl
+xlrd
+pywin32
+python-dotenv
+rich
